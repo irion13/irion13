@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Unai</h1>
 <h3 align="center">a computing system administrator and junior developer</h3>
 
-- 🔭 I’m currently working on **a MC plugin, UserPassport**
+- 🔭 I’m currently working on **a MC plugin -> UserPassport**
 
 - 💬 Ask me about **PHP, bash, Java**
 
